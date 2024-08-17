@@ -1,0 +1,6 @@
+requests
+pandas
+pytesseract
+Pillow
+python-dotenv
+openai
