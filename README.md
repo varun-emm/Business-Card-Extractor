@@ -24,7 +24,8 @@ This Python script automates the process of extracting and analyzing information
    git clone https://github.com/yourusername/business-card-extractor.git
    cd business-card-extractor
 
-Create a .env file in the root of your project directory and add your OpenAI API key in the following format:
+Create a .env file in the root of your project directory and add your OpenAI & IMGBB API key in the following format:
 
 OPENAI_API_KEY = "Input_your_key_here"
+
 IMGBB_API_KEY=Input_your_key_here
